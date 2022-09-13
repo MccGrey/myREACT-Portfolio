@@ -33,8 +33,8 @@ const about = () => {
 
             <article className="about__card">
               <RiProjectorFill className="about__icon" />
-              <h5>Over 30 Projects</h5>
-              <small>12 months+ working</small>
+              <h5>Projects</h5>
+              <small>Over 30 projects</small>
             </article>
           </div>
 
